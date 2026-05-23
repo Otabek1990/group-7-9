@@ -7,6 +7,7 @@ export default function Navbar() {
         <li>Home</li>
         <li>Aloqa</li>
         <li>Kontakt</li>
+        <li>Biz haqimizda</li>
       </ul>
     </nav>
   )
