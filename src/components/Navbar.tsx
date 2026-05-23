@@ -7,6 +7,7 @@ export default function Navbar() {
         <li>Home</li>
         <li>Aloqa</li>
         <li>Kontakt</li>
+        <li>Joylashuv</li>
       </ul>
     </nav>
   )
